@@ -1,0 +1,12 @@
+Package: stathelpers
+Title: Simple Sports Statistics Functions
+Version: 0.0.0.9000
+Authors@R:
+    person("Brenden", "Decena",
+           email = "decena0013@gmail.com",
+           role = c("aut", "cre"))
+Description: Simple helper functions for calculating sports statistics.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
